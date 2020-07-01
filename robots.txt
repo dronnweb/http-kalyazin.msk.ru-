@@ -1,0 +1,3 @@
+User-agent: *
+Host: kalyazin.msk.ru
+Sitemap: http://kalyazin.msk.ru//sitemap.xml
